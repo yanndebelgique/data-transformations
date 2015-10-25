@@ -2,7 +2,7 @@
 
 Useful when you want to create a html table for example.
 
-``
+```
 // Write your tests here!
 // Here is an example.
 var array = [{
@@ -26,4 +26,4 @@ Tinytest.add('table to arrays', function(test) {
   test.equal(DataTransformations.tableToArray(table), array);
 });
 
-``
+```
